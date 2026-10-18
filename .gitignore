@@ -1,0 +1,12 @@
+.vercel/
+node_modules/
+.idea/
+.env
+.env.*
+!.env.example
+oc2api
+*.log
+.DS_Store
+coverage/
+.vercel
+.env*
